@@ -11,3 +11,8 @@ Dashboard HTML do Grafana:
 
 ![Dashboard HTML do Grafana](img/azure-devops-k6-02.png)
 
+Reporter HTML do k6:
+
+![Reporter HTML do k6](img/azure-devops-k6-03.png)
+
+Extensão do Azure DevOps utilizada para publicação destes resultados: **https://marketplace.visualstudio.com/items?itemName=awardedsolutions.azure-pipelines-html-report-awardedsolutions**
